@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MU1oHcmnEM57lol+Hxv9hzQrUumAGSLMVs1hnZJFeefnjAUuVT1Rgv3a+uoOhtj98Oxme7ktS18DKFDI4Qr9NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\InfrormationSystem1\\InfrormationSystem\\InfrormationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

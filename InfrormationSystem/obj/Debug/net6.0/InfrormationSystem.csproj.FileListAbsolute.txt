@@ -1,0 +1,57 @@
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.exe
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.deps.json
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.runtimeconfig.json
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.pdb
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.AssemblyReference.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfoInputs.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfo.cs
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CoreCompileInputs.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\refint\InfrormationSystem.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.pdb
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.genruntimeconfig.cache
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\ref\InfrormationSystem.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+D:\П50-4-21 (2 курс)\ОАиП Скорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CopyComplete
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.exe
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.deps.json
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.runtimeconfig.json
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.dll
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.pdb
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.AssemblyReference.cache
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfoInputs.cache
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfo.cs
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CoreCompileInputs.cache
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CopyComplete
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.dll
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\refint\InfrormationSystem.dll
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.pdb
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.genruntimeconfig.cache
+D:\П50-4-21(2 курс)\ОАиПСкорогудаева\Проекты\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\ref\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\refint\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.pdb
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.exe
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.deps.json
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.runtimeconfig.json
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\InfrormationSystem.pdb
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.csproj.CopyComplete
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\refint\InfrormationSystem.dll
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.pdb
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\InfrormationSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\InfrormationSystem1\InfrormationSystem\obj\Debug\net6.0\ref\InfrormationSystem.dll
